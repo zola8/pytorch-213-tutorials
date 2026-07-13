@@ -1,2 +1,4 @@
 torch==2.13.0
 torchvision
+yfinance==1.5.1
+notebook
